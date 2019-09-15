@@ -1,0 +1,30 @@
+Insert into products values,,,,,,,,
+(40,bread1,Bread & Dairy',Bread',bread1.png',Swirl Blueberry',2.29,99),","
+(41,bread2,Bread & Dairy',Bread',bread2.png',White Bread',1.99,99),","
+(42,bread3,Bread & Dairy',Bread',bread3.png',Wheat Bread',0.88,99),","
+(43,bread4,Bread & Dairy',Bread',bread4.png',Whole Wheat Bread',1.59,99),","
+(44,egg1,Bread & Dairy',Eggs',egg1.png',White Eggs',0.15,99),","
+(45,egg2,Bread & Dairy',Eggs',egg2.png',Organic Brown Eggs',0.25,99),","
+(46,milk1,Bread & Dairy',Milk',milk1.png',Great Value 2% Milk',2.99,99),","
+(47,milk2,Bread & Dairy',Milk',milk2.png',Great Value Whole Milk',4.99,99),","
+(48,milk3,Bread & Dairy',Milk',milk3.png',Great Value 1% Milk',0.99,99),","
+(49,milk4,Bread & Dairy',Milk',milk4.png',Great Value 2% Milk 1/2 Gallon',7.99,99),","
+(50,milk5,Bread & Dairy',Milk',milk5.png',Great Value 1% Milk 1/2 Gallon',0.25,99),","
+(51,milk6,Bread & Dairy',Milk',milk6.png',Great Value 2% Organic Milk ',3.25,99),","
+(52,milk7,Bread & Dairy',Milk',milk7.png',Great Value Organic Whole Milk',5.68,99),","
+(53,milk8,Bread & Dairy',Milk',milk8.png',Great Value 0% Milk 1/2 Gallon',0.98,99),","
+(54,milk9,Bread & Dairy',Milk',milk9.png',Great Value Chocolate Milk ,0.98,99),","
+(55,milk10,Bread & Dairy',Milk',milk10.png',Great Value Chocolate Milk 1/2 Gallon,0.53,99),;
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+(40,,,,,,,,
